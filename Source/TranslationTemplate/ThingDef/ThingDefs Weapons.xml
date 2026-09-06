@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Autogun Bullet -->
+  <Bullet_AutoGun.label>Autogun Bullet</Bullet_AutoGun.label>
+  <!-- EN: Autopistol Round -->
+  <Bullet_Autopistolgrim.label>Autopistol Round</Bullet_Autopistolgrim.label>
+  <!-- EN: shotgun blast -->
+  <Bullet_Shotgungrim.label>shotgun blast</Bullet_Shotgungrim.label>
+  <!-- EN: Stub Round -->
+  <Bullet_Stubround.label>Stub Round</Bullet_Stubround.label>
+  <!-- EN: Agripinaa MKII -->
+  <Gun_Agripinaamkii.label>Agripinaa MKII</Gun_Agripinaamkii.label>
+  <!-- EN: Autoguns, reluctantly favoured by planetary defence forces and gangers alike for thier ease of manufacturing compared to the more modern lasgun. The Agripinaa MKII is the most widely available model amongst the militarum for those few foes that are resliliant to las-burn. -->
+  <Gun_Agripinaamkii.description>Autoguns, reluctantly favoured by planetary defence forces and gangers alike for thier ease of manufacturing compared to the more modern lasgun. The Agripinaa MKII is the most widely available model amongst the militarum for those few foes that are resliliant to las-burn.</Gun_Agripinaamkii.description>
+  <!-- EN: stock -->
+  <Gun_Agripinaamkii.tools.stock.label>stock</Gun_Agripinaamkii.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_Agripinaamkii.tools.barrel.label>barrel</Gun_Agripinaamkii.tools.barrel.label>
+  <!-- EN: Agripinaa MKII -->
+  <Gun_Agripinaamkii.verbs.Verb_Shoot.label>Agripinaa MKII</Gun_Agripinaamkii.verbs.Verb_Shoot.label>
+  <!-- EN: Tanker Agripinaa MKII -->
+  <Gun_Agripinaamkiitanker.label>Tanker Agripinaa MKII</Gun_Agripinaamkiitanker.label>
+  <!-- EN: Autoguns, reluctantly favoured by planetary defence forces and gangers alike for thier ease of manufacturing compared to the more modern lasgun. The Agripinaa MKII is the most widely available model amongst the militarum for those few foes that are resliliant to las-burn. This particular Autogun has been field modified for use by tankers and pilots. -->
+  <Gun_Agripinaamkiitanker.description>Autoguns, reluctantly favoured by planetary defence forces and gangers alike for thier ease of manufacturing compared to the more modern lasgun. The Agripinaa MKII is the most widely available model amongst the militarum for those few foes that are resliliant to las-burn. This particular Autogun has been field modified for use by tankers and pilots.</Gun_Agripinaamkiitanker.description>
+  <!-- EN: stock -->
+  <Gun_Agripinaamkiitanker.tools.stock.label>stock</Gun_Agripinaamkiitanker.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_Agripinaamkiitanker.tools.barrel.label>barrel</Gun_Agripinaamkiitanker.tools.barrel.label>
+  <!-- EN: Tanker Agripinaa MKII -->
+  <Gun_Agripinaamkiitanker.verbs.Verb_Shoot.label>Tanker Agripinaa MKII</Gun_Agripinaamkiitanker.verbs.Verb_Shoot.label>
+  <!-- EN: Heavy Stubber -->
+  <Gun_Heavystubber.label>Heavy Stubber</Gun_Heavystubber.label>
+  <!-- EN: A mainstay support weapon on lower-technology level planets that cannot maintain laser weapons in working order due to technological or resource limitations, and also popular with outlaws and hive gangers, the Heavy Stubber is ideal for fighting off large numbers of enemies or even lightly armoured vehicles. Its high rate of fire makes up for its lack of strength and armour-piercing abilities. -->
+  <Gun_Heavystubber.description>A mainstay support weapon on lower-technology level planets that cannot maintain laser weapons in working order due to technological or resource limitations, and also popular with outlaws and hive gangers, the Heavy Stubber is ideal for fighting off large numbers of enemies or even lightly armoured vehicles. Its high rate of fire makes up for its lack of strength and armour-piercing abilities.</Gun_Heavystubber.description>
+  <!-- EN: stock -->
+  <Gun_Heavystubber.tools.stock.label>stock</Gun_Heavystubber.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_Heavystubber.tools.barrel.label>barrel</Gun_Heavystubber.tools.barrel.label>
+  <!-- EN: Heavy Stubber -->
+  <Gun_Heavystubber.verbs.Verb_Shoot.label>Heavy Stubber</Gun_Heavystubber.verbs.Verb_Shoot.label>
+  <!-- EN: Hiveworld Autopistol -->
+  <Gun_Hiveworldautopistol.label>Hiveworld Autopistol</Gun_Hiveworldautopistol.label>
+  <!-- EN: A favorite of the gangers that roam the passages of the Imperiums hive cities, Autopistols are conventional weapons of simple construction that vary wildly in design. Often as crude and inelegant as the hand that craft them. -->
+  <Gun_Hiveworldautopistol.description>A favorite of the gangers that roam the passages of the Imperiums hive cities, Autopistols are conventional weapons of simple construction that vary wildly in design. Often as crude and inelegant as the hand that craft them.</Gun_Hiveworldautopistol.description>
+  <!-- EN: grip -->
+  <Gun_Hiveworldautopistol.tools.grip.label>grip</Gun_Hiveworldautopistol.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_Hiveworldautopistol.tools.barrel.label>barrel</Gun_Hiveworldautopistol.tools.barrel.label>
+  <!-- EN: Hiveworld Autopistol -->
+  <Gun_Hiveworldautopistol.verbs.Verb_Shoot.label>Hiveworld Autopistol</Gun_Hiveworldautopistol.verbs.Verb_Shoot.label>
+  <!-- EN: Militarum Shotgun -->
+  <Gun_MilitarumShotgun.label>Militarum Shotgun</Gun_MilitarumShotgun.label>
+  <!-- EN: An ancient Imperial ballistic weapon, much the same as the Heavy Stubber, which fires solid slugs that burst into submunitions to spread out over a wider area. -->
+  <Gun_MilitarumShotgun.description>An ancient Imperial ballistic weapon, much the same as the Heavy Stubber, which fires solid slugs that burst into submunitions to spread out over a wider area.</Gun_MilitarumShotgun.description>
+  <!-- EN: stock -->
+  <Gun_MilitarumShotgun.tools.stock.label>stock</Gun_MilitarumShotgun.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_MilitarumShotgun.tools.barrel.label>barrel</Gun_MilitarumShotgun.tools.barrel.label>
+  <!-- EN: Militarum Shotgun -->
+  <Gun_MilitarumShotgun.verbs.Verb_Shoot.label>Militarum Shotgun</Gun_MilitarumShotgun.verbs.Verb_Shoot.label>
+  <!-- EN: Sawn Off Militarum Shotgun -->
+  <Gun_MilitarumShotgunSawn.label>Sawn Off Militarum Shotgun</Gun_MilitarumShotgunSawn.label>
+  <!-- EN: An ancient Imperial ballistic weapon, much the same as the Heavy Stubber, which fires solid slugs that burst into submunitions to spread out over a wider area. Shotguns are commonly used by criminal lowlifes in the lawless regions of most hive cities, oftentimes cutting length from the barrel for ease of concealment. -->
+  <Gun_MilitarumShotgunSawn.description>An ancient Imperial ballistic weapon, much the same as the Heavy Stubber, which fires solid slugs that burst into submunitions to spread out over a wider area. Shotguns are commonly used by criminal lowlifes in the lawless regions of most hive cities, oftentimes cutting length from the barrel for ease of concealment.</Gun_MilitarumShotgunSawn.description>
+  <!-- EN: stock -->
+  <Gun_MilitarumShotgunSawn.tools.stock.label>stock</Gun_MilitarumShotgunSawn.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_MilitarumShotgunSawn.tools.barrel.label>barrel</Gun_MilitarumShotgunSawn.tools.barrel.label>
+  <!-- EN: Sawn Off Militarum Shotgun -->
+  <Gun_MilitarumShotgunSawn.verbs.Verb_Shoot.label>Sawn Off Militarum Shotgun</Gun_MilitarumShotgunSawn.verbs.Verb_Shoot.label>
+  <!-- EN: Orlock Autogun -->
+  <Gun_OrlockAutogun.label>Orlock Autogun</Gun_OrlockAutogun.label>
+  <!-- EN: Autoguns, reluctantly favoured by planetary defence forces and gangers alike for thier ease of manufacturing compared to the more modern lasgun. This pattern was devised in the underbelly of the hiveworld Necromunda by the gunsmiths of the Orlock gang. -->
+  <Gun_OrlockAutogun.description>Autoguns, reluctantly favoured by planetary defence forces and gangers alike for thier ease of manufacturing compared to the more modern lasgun. This pattern was devised in the underbelly of the hiveworld Necromunda by the gunsmiths of the Orlock gang.</Gun_OrlockAutogun.description>
+  <!-- EN: stock -->
+  <Gun_OrlockAutogun.tools.stock.label>stock</Gun_OrlockAutogun.tools.stock.label>
+  <!-- EN: barrel -->
+  <Gun_OrlockAutogun.tools.barrel.label>barrel</Gun_OrlockAutogun.tools.barrel.label>
+  <!-- EN: Orlock Autogun -->
+  <Gun_OrlockAutogun.verbs.Verb_Shoot.label>Orlock Autogun</Gun_OrlockAutogun.verbs.Verb_Shoot.label>
+  <!-- EN: Zarona MKII -->
+  <Gun_Zarona.label>Zarona MKII</Gun_Zarona.label>
+  <!-- EN: Stub Revolvers are one of the oldest and most reliable designs still used by humanity. The Zarona MKII is a classic example of such a design. -->
+  <Gun_Zarona.description>Stub Revolvers are one of the oldest and most reliable designs still used by humanity. The Zarona MKII is a classic example of such a design.</Gun_Zarona.description>
+  <!-- EN: grip -->
+  <Gun_Zarona.tools.grip.label>grip</Gun_Zarona.tools.grip.label>
+  <!-- EN: barrel -->
+  <Gun_Zarona.tools.barrel.label>barrel</Gun_Zarona.tools.barrel.label>
+  <!-- EN: Zarona MKII -->
+  <Gun_Zarona.verbs.Verb_Shoot.label>Zarona MKII</Gun_Zarona.verbs.Verb_Shoot.label>
+</LanguageData>

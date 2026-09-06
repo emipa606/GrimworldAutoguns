@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Grimworld: Autoguns (Continued)</name>
+  <packageId>Mlie.GrimworldAutoguns</packageId>
+  <author>Sparky</author>
+  <url>https://github.com/emipa606/GrimworldAutoguns</url>
+  <supportedVersions>
+    <li>1.4</li>
+    <li>1.5</li>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>[img]https://img.litet.net/logos/Info.png[/img]
+Update of Sparkys mod https://steamcommunity.com/sharedfiles/filedetails/?id=2897974516
+
+[img]https://img.litet.net/logos/Notice.png[/img]
+
+[table]
+    [tr][td][url=https://discord.gg/h5TY6DA][img]https://img.litet.net/logos/Discord.png[/img][/url][/td] [td][url=https://github.com/emipa606/GrimworldAutoguns][img]https://img.litet.net/logos/Github.png[/img][/url][/td]
+    [/tr]
+    [tr]
+        [td][img]https://img.litet.net/logos/SafeToAdd.png[/img][/td]
+        [td][img]https://img.litet.net/logos/RemoveMayWork.png[/img][/td]
+    [/tr]
+[/table]
+	
+[img]https://img.litet.net/logos/OriginalDescription.png[/img]
+Hey there fellow scavs and scabs. 
+
+I have another selection of equipment from the 41st millennium here for you all, a collection of autoguns and stub guns beloved by guardsmen and hive gangers alike.
+
+
+Details:
+
+Adds 8 new firearms inspired by Warhammer 40k, craftable by progressing through the standard firearm research trees.
+
+Currently Included are the Agripinaa MKII Autogun and its tanker variant, a Heavy Stubber, a Militarum Shotgun/Sawn Off Shotgun, an Orlock Autogun, Hiveworld Autopistol and the Zarona MKII Stub Revolver.
+
+All textures are 512 x 512
+
+
+Recommended mods:
+
+Graphics Settings+
+
+Camera+
+
+
+
+If you enjoy my work then feel free to tip, it'll help me dedicate more hours to making more mods.
+
+[url=https://ko-fi.com/sparkysmods/] Ko-Fi Link [/url]
+
+[img]https://img.litet.net/logos/ReportingIssues.png[/img]
+[list]
+[*] See if the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Always post your log using the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Log Uploader[/url]
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
+[/list]</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.0</modVersion>
+</ModMetaData>
